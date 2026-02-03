@@ -1,0 +1,4 @@
+company_name,contract_type,base_unit_price,energy_unit_price,incentive_shot,incentive_running
+Looop Denki,Low Voltage,0,26.4,0,0
+U-POWER,Low Voltage,1100,25.8,5000,500
+Saiteki Denki,High Voltage,1650,24.5,10000,800
